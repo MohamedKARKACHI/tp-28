@@ -24,4 +24,11 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
+    <developers>
+        <developer>
+            <id>karkachi</id>
+            <name>Karkachi Mohamed</name>
+        </developer>
+    </developers>
 </project>
